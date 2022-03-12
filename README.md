@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prakash v
 - 👀 I’m interested in learn new things and explore on it
-- 🌱 I’m currently learning all new tecnologies
+- 🌱 I’m currently learning Data structure and algorithms
 - 💞️ I’m looking to collaborate on end to end development and host the product
 - 📫 How to reach me ...
 
